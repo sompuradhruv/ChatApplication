@@ -29,6 +29,7 @@ The project seeks to construct a simple, prototype of a chatting application and
 
 
 
-The application uses Java language for building and deploying the application in android.
+#990011 The application uses Java language for building and deploying the application in android.
 The application was build on Android studio with frontend with XML.
 The database used was Google's Firebase.
+
